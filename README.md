@@ -52,3 +52,5 @@ $$
 x = 2^4 * y
 $$
 
+![Foto 1](images.jpeg)
+![Gif 1](giphy.gif)
